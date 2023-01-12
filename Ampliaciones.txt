@@ -1,0 +1,9 @@
+----------------------------- AMPLIACIONES DE LA APLICACIÓN -----------------------------
+
+1. Darse de baja (eliminación del usuario de la BBDD)
+2. Filtrado de los gastos / tipos
+3. Cambios en el front-end
+4. Añadida entidad Tipos con su CRUD
+5. Autorización (una URL no es accesible si no tienes los permisos adecuados)
+
+-----------------------------------------------------------------------------------------
